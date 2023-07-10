@@ -1,0 +1,14 @@
+{
+  "monitorDelay": 5000,
+  "webhook": "DISCORD_WEBHOOK",
+  "skinportUsername": "SKINPORT_USERNAME",
+  "skinportPassword": "SKINPORT_PASSWORD",
+  "twoCaptchaKey": "2CAPTCHA_KEY",
+  "botToken": "DISCORD_BOT_TOKEN",
+  "dmarketPublicKey": "DMARKET_PUBLIC_KEY",
+  "dmarketPrivateKey": "DMARKET_PRIVATE_KEY",
+  "minimumProfitPercentage": 5,
+  "minimumPrice": 5,
+  "maximumPrice": 500,
+  "inputChannel": "INPUT_CHANNEL_ID"
+}
